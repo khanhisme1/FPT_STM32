@@ -1,0 +1,11 @@
+uartf103\main.o: ../Core/Src/main.c
+uartf103\main.o: C:\Users\ADMIN\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h
+uartf103\main.o: .\RTE\_uartf103\RTE_Components.h
+uartf103\main.o: ../Drivers/CMSIS/Include/core_cm3.h
+uartf103\main.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+uartf103\main.o: ../Drivers/CMSIS/Include/cmsis_version.h
+uartf103\main.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+uartf103\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+uartf103\main.o: C:\Users\ADMIN\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h
+uartf103\main.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
+uartf103\main.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
