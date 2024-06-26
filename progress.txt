@@ -1,0 +1,3 @@
+26/6/2024:
+- Basic GPIO operation.
+- Using UART to send String and Character to computer.
