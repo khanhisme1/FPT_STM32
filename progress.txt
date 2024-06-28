@@ -1,3 +1,6 @@
 26/6/2024:
 - Basic GPIO operation.
 - Using UART to send String and Character to computer.
+
+28/6/2024:
+- I2C communication with PCF8574 to control LCD 16x2.
