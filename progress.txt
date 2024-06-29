@@ -4,3 +4,6 @@
 
 28/6/2024:
 - I2C communication with PCF8574 to control LCD 16x2.
+
+29/6/2024:
+- Basic SPI communication.
