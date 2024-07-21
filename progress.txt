@@ -7,3 +7,6 @@
 
 29/6/2024:
 - Basic SPI communication.
+
+21/07/2024:
+- Some problems solved.
