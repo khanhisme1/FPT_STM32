@@ -1,0 +1,9 @@
+adc_dac\main.o: ../Core/Src/main.c
+adc_dac\main.o: C:\Users\ADMIN\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h
+adc_dac\main.o: .\RTE\_adc_dac\RTE_Components.h
+adc_dac\main.o: ../Drivers/CMSIS/Include/core_cm3.h
+adc_dac\main.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+adc_dac\main.o: ../Drivers/CMSIS/Include/cmsis_version.h
+adc_dac\main.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+adc_dac\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+adc_dac\main.o: C:\Users\ADMIN\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h

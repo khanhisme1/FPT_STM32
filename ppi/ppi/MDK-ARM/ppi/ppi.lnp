@@ -1,0 +1,25 @@
+--cpu=Cortex-M4.fp.sp
+"ppi\startup_stm32f401xe.o"
+"ppi\main.o"
+"ppi\stm32f4xx_it.o"
+"ppi\stm32f4xx_hal_msp.o"
+"ppi\stm32f4xx_hal_tim.o"
+"ppi\stm32f4xx_hal_tim_ex.o"
+"ppi\stm32f4xx_hal_rcc.o"
+"ppi\stm32f4xx_hal_rcc_ex.o"
+"ppi\stm32f4xx_hal_flash.o"
+"ppi\stm32f4xx_hal_flash_ex.o"
+"ppi\stm32f4xx_hal_flash_ramfunc.o"
+"ppi\stm32f4xx_hal_gpio.o"
+"ppi\stm32f4xx_hal_dma_ex.o"
+"ppi\stm32f4xx_hal_dma.o"
+"ppi\stm32f4xx_hal_pwr.o"
+"ppi\stm32f4xx_hal_pwr_ex.o"
+"ppi\stm32f4xx_hal_cortex.o"
+"ppi\stm32f4xx_hal.o"
+"ppi\stm32f4xx_hal_exti.o"
+"ppi\system_stm32f4xx.o"
+--strict --scatter "ppi\ppi.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "ppi.map" -o ppi\ppi.axf
